@@ -6,6 +6,8 @@ This approach is especially useful when access to mass storage devices is blocke
 Transferring files with this application requires the Windows/Linux client to run an executable that communicates with the Flipper Zero for data exchange.
 Therefore, multiple stages are required to be able to exchange data.
 
+## This fork is to update the HID File Transfer app to work with the latest version of the Momentum firmware.
+
 ## Included Linux/Windows Clients
 - HIDMinimalClient
     - Is sent to the target system via the Flipper Zero BadUSB application.
